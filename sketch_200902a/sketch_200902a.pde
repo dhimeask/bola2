@@ -2,4 +2,6 @@ void setup(){
   size(900,900);
 }
 
-void draw(){}
+void draw(){
+  rect(300,300,30,30);
+}
