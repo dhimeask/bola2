@@ -4,4 +4,5 @@ void setup(){
 
 void draw(){
   rect(300,300,30,30);
+  ellipse(400,400,40,40);
 }
